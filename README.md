@@ -1,4 +1,6 @@
-### Hi there 👋
+# Scott Tolinski
+
+## Web Developer | Creator of Level Up Tutorials | Co-host of Syntax.fm | Father of 2 | Bboy | Robotops Crew | Youtuber | Tea Drinker | Tutorial Maker | Fan of physical activity | Former Music Major | Denverite | Michigander | Shaw Brothers Kung Fu Film Watcher | Handstander | Stretching enthusiast
 
 <!--
 **stolinski/stolinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
